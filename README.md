@@ -1,8 +1,10 @@
 # Olá, me chamo Wellyngton ! 
+ 
 
 
-![avatar](https://user-images.githubusercontent.com/84642588/197892032-ceb8b877-026f-45e5-927e-c5e932989c18.png)
+<img src="/avatar.png" height ="200" position="absolute"/>
 
+## hi devs
+Sou um estudante de ciêncais da comptação, vou está postando alguns dos codigos que faço como projeto na faculdade ou projetos que faço por autoria propria para praticar poder dar uma olhadinha agradeço :smile:
 
-
-## Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil GitHub 👋
