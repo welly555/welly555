@@ -1,7 +1,7 @@
 # Olá, me chamo Wellyngton ! 
 
+![avatar](avatar.png =250x)
 
-
-<img scr="https://user-images.githubusercontent.com/84642588/197889418-a947aeaa-7eb2-4fd7-8d0e-12cc0a7ff2a6.png" alt="avatar" />
+<img scr="avatar.png" alt="avatar" />
 
 ## Bem vindo ao meu perfil GitHub 👋
